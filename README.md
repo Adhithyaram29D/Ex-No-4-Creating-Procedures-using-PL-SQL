@@ -11,9 +11,6 @@
 6. Display the employee table
 
 ### Program:
-
-## DEVELOPED BY: ADHITHYARAM D
-## REGISTER NO: 212222230008
 ```sql
 create or replace procedure insert_employee_data AS
 begin
@@ -32,7 +29,7 @@ insert_employee_data;
 end;
 /
 PL/SQL procedure successfully completed.
-sql
+
 ```
 ### Output:
 ![Screenshot 2023-10-03 161442](https://github.com/Adhithyaram29D/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393540/326954a4-911d-4009-89e2-7f4253a49949)
